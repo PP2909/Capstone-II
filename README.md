@@ -1,31 +1,23 @@
 # ☕ Xpresso — Brew Your Productivity
 
-A fun gamified to-do app where finishing tasks earns you XP, levels, and blooms! 🌸
+A gamified productivity **landing page** built with React. Complete tasks, earn XP, level up and watch blooms fly! 🌸
+
+🔗 **Live Site:**https://capstone-xpresso-pragya.netlify.app
 
 ---
 
-## ✨ Features
-- ➕ Add tasks with category & priority
-- ✅ Complete tasks → earn XP + bloom animations
-- 🌱 Level up every 100 XP
-- 🏅 Unlock achievements
-- 💾 Auto-saves in your browser
-
-
----
-
-## 🎮 XP System
-
-| Priority | XP |
-|---|---|
-| 🔴 High | +30 |
-| 🟡 Medium | +20 |
-| 🟢 Low | +10 |
+## 🌟 What's on the Page
+- Hero section with XP progress & level system
+- Task manager with categories, priorities & bloom animations
+- Achievement badges to unlock
+- Streak tracker
+- Fully responsive cream & espresso dark theme
 
 ---
 
 ## 🛠️ Built With
-⚛️ React &nbsp;|&nbsp; ⚡ Vite &nbsp;|&nbsp; 💾 localStorage
+⚛️ React &nbsp;|&nbsp; ⚡ Vite &nbsp;|&nbsp; 💅 CSS-in-JS &nbsp;|&nbsp; 💾 localStorage
+
 
 ---
 
