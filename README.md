@@ -1,24 +1,46 @@
-# ☕ Xpresso — Brew Your Productivity
+# ☕ Xpresso 
 
-A gamified productivity **landing page** built with React. Complete tasks, earn XP, level up and watch blooms fly! 🌸
-
-🔗 **Live Site:**https://capstone-xpresso-pragya.netlify.app
+A responsive product landing page for **Xpresso**, a gamified productivity app. Built with React JS and Pure CSS.
 
 ---
 
-## 🌟 What's on the Page
-- Hero section with XP progress & level system
-- Task manager with categories, priorities & bloom animations
-- Achievement badges to unlock
-- Streak tracker
-- Fully responsive cream & espresso dark theme
+## 🚀 Tech Stack
+
+- React JS (Vite)
+- Pure CSS 
 
 ---
 
-## 🛠️ Built With
-⚛️ React &nbsp;|&nbsp; ⚡ Vite &nbsp;|&nbsp; 💅 CSS-in-JS &nbsp;|&nbsp; 💾 localStorage
+## 📁 Project Structure
 
+```
+src/
+├── components/
+│   ├── Navbar.jsx        # Sticky navbar with smooth scroll
+│   ├── HeroSection.jsx   # Hero banner with floating particles
+│   ├── Features.jsx      # 6 feature cards with hover effects
+│   ├── Testimonials.jsx  # User reviews + CTA band
+│   └── Footer.jsx        # Links, socials, branding
+├── styles/
+│   └── style.css         # All styles in pure CSS
+├── App.jsx               # Renders all components
+└── main.jsx              # Entry point
+```
 
 ---
 
-**Crafted with ♥ by Pragya Sinha 🌸**
+## ✨ Features
+
+- 🎨 Espresso-themed dark + cream UI
+- 📱 Fully responsive (mobile, tablet, desktop)
+- 💫 Smooth animations and section transitions
+- 🖱️ Hover effects on all cards and buttons
+- 🌸 Floating particle animation in hero
+- 🚀 Attractive CTA buttons with gradient effects
+
+---
+
+## 👩‍💻 Made by
+
+**Pragya Sinha** 🌸  
+BCA (AI & Data Science) — KR Mangalam University
