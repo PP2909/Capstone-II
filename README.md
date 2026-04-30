@@ -2,7 +2,7 @@
 
 A responsive product landing page for **Xpresso**, a gamified productivity app. Built with React JS and Pure CSS.
 
-#🔗**Live Site:** https://capstone-xpresso-pragya.netlify.app
+# 🔗 *Live Site:* https://capstone-xpresso-pragya.netlify.app
 ---
 
 ## 🚀 Tech Stack
