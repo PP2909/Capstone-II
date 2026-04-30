@@ -18,15 +18,15 @@ A responsive product landing page for **Xpresso**, a gamified productivity app. 
 ```
 src/
 ├── components/
-│   ├── Navbar.jsx        # Sticky navbar with smooth scroll
-│   ├── HeroSection.jsx   # Hero banner with floating particles
-│   ├── Features.jsx      # 6 feature cards with hover effects
-│   ├── Testimonials.jsx  # User reviews + CTA band
-│   └── Footer.jsx        # Links, socials, branding
+│   ├── Navbar.jsx       
+│   ├── HeroSection.jsx   
+│   ├── Features.jsx      
+│   ├── Testimonials.jsx  
+│   └── Footer.jsx       
 ├── styles/
-│   └── style.css         # All styles in pure CSS
-├── App.jsx               # Renders all components
-└── main.jsx              # Entry point
+│   └── style.css         
+├─ App.jsx               
+└── main.jsx         
 ```
 
 ---
