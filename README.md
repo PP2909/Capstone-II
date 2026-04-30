@@ -1,16 +1,32 @@
-# React + Vite
+# ☕ Xpresso — Brew Your Productivity
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun gamified to-do app where finishing tasks earns you XP, levels, and blooms! 🌸
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- ➕ Add tasks with category & priority
+- ✅ Complete tasks → earn XP + bloom animations
+- 🌱 Level up every 100 XP
+- 🏅 Unlock achievements
+- 💾 Auto-saves in your browser
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🎮 XP System
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Priority | XP |
+|---|---|
+| 🔴 High | +30 |
+| 🟡 Medium | +20 |
+| 🟢 Low | +10 |
+
+---
+
+## 🛠️ Built With
+⚛️ React &nbsp;|&nbsp; ⚡ Vite &nbsp;|&nbsp; 💾 localStorage
+
+---
+
+**Crafted with ♥ by Pragya Sinha 🌸**
