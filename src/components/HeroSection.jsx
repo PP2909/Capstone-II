@@ -74,7 +74,7 @@ export default function HeroSection() {
   const [lvIdx,      setLvIdx]      = useState(0);
   const [done,       setDone]       = useState(2);
   const [highDone,   setHighDone]   = useState(1);
-  const [badges,     setBadges]     = useState(new Set());
+ const [badges, setBadges] = useState([]);
   const [toast,      setToast]      = useState(null);
   const [badgeLabel, setBadgeLabel] = useState("Champion unlocked!");
   const [filterPrio, setFilterPrio] = useState("all");
